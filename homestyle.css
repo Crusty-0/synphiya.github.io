@@ -100,7 +100,7 @@ a.active,a:hover {
         color: grey;
     }
     #check:checked ~ ul {
-        left: 80px;
+        left: 0px;
     }
 }
 
