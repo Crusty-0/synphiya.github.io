@@ -9,6 +9,8 @@
 body {
     font-family: montserrat;
     background-image: url(https://img.freepik.com/free-vector/realistic-polygonal-background_23-2148901867.jpg);
+    background-position: center;
+    background-size: cover;
 }
 
 nav {
